@@ -13,5 +13,5 @@
 <div align="center">Domain expertise in Enterprise applications, Financial Applications, Card Management System(Debit/Credit/Prepaid/Closeloop), Reconciliation System(VISA/MasterCard/JCB/CUP), SMS, Educational and Business Intelligence applications.</div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,react,nextjs,dotnet,Oracle,mysql,mongodb,flutter,IOS,php,networking,figma" alt="known-language"/>
+<img src="https://skillicons.dev/icons?i=java,react,nextjs,dotnet,mysql,mongodb,flutter,php,figma" alt="known-language"/>
 </div>
