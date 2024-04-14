@@ -15,5 +15,5 @@
 <br/>
 <hr/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,react,nextjs,dotnet,mysql,mongodb,flutter,php,figma" alt="known-language"/>
+<img src="https://skillicons.dev/icons?i=java,react,nextjs,dotnet,mysql,mongodb,flutter,php,wordpress,figma,photoshop" alt="known-language"/>
 </div>
